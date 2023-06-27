@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'app-skano-dotnet-webapp2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_842B935736D24EB9AF63E1D26D159F17 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86943C70A819460C91189E7C96E6DA5D }}
           package: .
